@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="Main" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>3700B3
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">#6200EE</item>
+
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+</resources>
